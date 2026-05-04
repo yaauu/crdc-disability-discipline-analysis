@@ -1,0 +1,13 @@
+Geography,Measure,Group,Count,Enrollment,Rate,IDEA Share of Total
+National,Physical Restraint,IDEA Students,28390,8416507,0.003373,0.8096
+  National,Physical Restraint,Non-IDEA Students,6676,40734059,0.000164,0.8096
+  Texas,Physical Restraint,IDEA Students,4436,947842,0.00468,0.8427
+  Texas,Physical Restraint,Non-IDEA Students,828,4381335,0.000189,0.8427
+  National,Mechanical Restraint,IDEA Students,683,8416507,0.000081,0.3153
+  National,Mechanical Restraint,Non-IDEA Students,1483,40734059,0.000036,0.3153
+  Texas,Mechanical Restraint,IDEA Students,219,947842,0.000231,0.3313
+  Texas,Mechanical Restraint,Non-IDEA Students,442,4381335,0.000101,0.3313
+  National,Seclusion,IDEA Students,11809,8416507,0.001403,0.7517
+  National,Seclusion,Non-IDEA Students,3900,40734059,0.000096,0.7517
+  Texas,Seclusion,IDEA Students,59,947842,0.000062,0.4609
+  Texas,Seclusion,Non-IDEA Students,69,4381335,0.000016,0.4609
