@@ -1,0 +1,17 @@
+Race,Disability Status,Count,Enrollment,Rate
+Black,Students with Disabilities,47144,1361722,0.034621
+  Black,Students without Disabilities,121202,6024884,0.020117
+  White,Students with Disabilities,97759,4086147,0.023924
+  White,Students without Disabilities,215822,18300597,0.011793
+  Hispanic/Latino,Students with Disabilities,28068,2272884,0.012349
+  Hispanic/Latino,Students without Disabilities,82290,11709460,0.007028
+  Asian,Students with Disabilities,809,211627,0.003823
+  Asian,Students without Disabilities,3776,2393965,0.001577
+  American Indian/AK Native,Students with Disabilities,2424,89346,0.02713
+  American Indian/AK Native,Students without Disabilities,6404,368647,0.017371
+  Native HI/Pacific Islander,Students with Disabilities,209,19167,0.010904
+  Native HI/Pacific Islander,Students without Disabilities,1130,140414,0.008047
+  Two or More Races,Students with Disabilities,10807,375614,0.028772
+  Two or More Races,Students without Disabilities,24092,1796092,0.013413
+  All Races,Students with Disabilities,187220,8416507,0.022244
+  All Races,Students without Disabilities,454716,40734059,0.011163
