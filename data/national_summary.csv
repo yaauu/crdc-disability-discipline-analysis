@@ -1,0 +1,13 @@
+Measure,Group,Count,Enrollment,Rate
+In-School Suspension (1+),Students with Disabilities,186499,8416507,0.022159
+  In-School Suspension (1+),Students without Disabilities,603046,40734059,0.014804
+  Out-of-School Suspension (1+),Students with Disabilities,187220,8416507,0.022244
+  Out-of-School Suspension (1+),Students without Disabilities,454716,40734059,0.011163
+  OOS Suspension (One),Students with Disabilities,123624,8416507,0.014688
+  OOS Suspension (One),Students without Disabilities,341700,40734059,0.008389
+  OOS Suspension (More than one),Students with Disabilities,64103,8416507,0.007616
+  OOS Suspension (More than one),Students without Disabilities,114720,40734059,0.002816
+  Referral to Law Enforcement,Students with Disabilities,17905,8416507,0.002127
+  Referral to Law Enforcement,Students without Disabilities,46673,40734059,0.001146
+  School Arrest,Students with Disabilities,2600,8416507,0.000309
+  School Arrest,Students without Disabilities,6687,40734059,0.000164
