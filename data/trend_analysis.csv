@@ -1,0 +1,33 @@
+Year,Measure,Group,Count,Enrollment,Rate,Notes
+2017-18,In-School Suspension (1+),Students with Disabilities,539169,8108210,0.066497,2017-18 SWD enrollment includes IDEA + Section 504
+  2017-18,In-School Suspension (1+),Students without Disabilities,1990404,42814191,0.046489,
+2020-21,In-School Suspension (1+),Students with Disabilities,186499,8416507,0.022159,2020-21 SWD enrollment is IDEA-only
+2020-21,In-School Suspension (1+),Students without Disabilities,603046,40734059,0.014804,
+2017-18,OOS Suspension (One),Students with Disabilities,345206,8108210,0.042575,2017-18 SWD enrollment includes IDEA + Section 504
+  2017-18,OOS Suspension (One),Students without Disabilities,1178498,42814191,0.027526,
+2020-21,OOS Suspension (One),Students with Disabilities,123624,8416507,0.014688,2020-21 SWD enrollment is IDEA-only
+2020-21,OOS Suspension (One),Students without Disabilities,341700,40734059,0.008389,
+2017-18,OOS Suspension (More than one),Students with Disabilities,269821,8108210,0.033278,2017-18 SWD enrollment includes IDEA + Section 504
+  2017-18,OOS Suspension (More than one),Students without Disabilities,625574,42814191,0.014611,
+2020-21,OOS Suspension (More than one),Students with Disabilities,64103,8416507,0.007616,2020-21 SWD enrollment is IDEA-only
+2020-21,OOS Suspension (More than one),Students without Disabilities,114720,40734059,0.002816,
+2017-18,Referral to Law Enforcement,Students with Disabilities,59951,8108210,0.007394,2017-18 SWD enrollment includes IDEA + Section 504
+  2017-18,Referral to Law Enforcement,Students without Disabilities,161352,42814191,0.003769,
+2020-21,Referral to Law Enforcement,Students with Disabilities,17905,8416507,0.002127,2020-21 SWD enrollment is IDEA-only
+2020-21,Referral to Law Enforcement,Students without Disabilities,46673,40734059,0.001146,
+2017-18,School Arrest,Students with Disabilities,13996,8108210,0.001726,2017-18 SWD enrollment includes IDEA + Section 504
+  2017-18,School Arrest,Students without Disabilities,38304,42814191,0.000895,
+2020-21,School Arrest,Students with Disabilities,2600,8416507,0.000309,2020-21 SWD enrollment is IDEA-only
+2020-21,School Arrest,Students without Disabilities,6687,40734059,0.000164,
+2017-18,Physical Restraint,Students with Disabilities,57191,8108210,0.007053,2017-18 SWD enrollment includes IDEA + Section 504
+  2017-18,Physical Restraint,Students without Disabilities,14124,42814191,0.00033,
+2020-21,Physical Restraint,Students with Disabilities,28390,8416507,0.003373,2020-21 SWD enrollment is IDEA-only
+2020-21,Physical Restraint,Students without Disabilities,6676,40734059,0.000164,
+2017-18,Mechanical Restraint,Students with Disabilities,1490,8108210,0.000184,2017-18 SWD enrollment includes IDEA + Section 504
+  2017-18,Mechanical Restraint,Students without Disabilities,2120,42814191,0.00005,
+2020-21,Mechanical Restraint,Students with Disabilities,683,8416507,0.000081,2020-21 SWD enrollment is IDEA-only
+2020-21,Mechanical Restraint,Students without Disabilities,1483,40734059,0.000036,
+2017-18,Seclusion,Students with Disabilities,21253,8108210,0.002621,2017-18 SWD enrollment includes IDEA + Section 504
+  2017-18,Seclusion,Students without Disabilities,6246,42814191,0.000146,
+2020-21,Seclusion,Students with Disabilities,11809,8416507,0.001403,2020-21 SWD enrollment is IDEA-only
+2020-21,Seclusion,Students without Disabilities,3900,40734059,0.000096,
