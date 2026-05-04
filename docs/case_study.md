@@ -1,4 +1,4 @@
-———×————————# Disciplinary Disparities for Students with Disabilities
+———×———# Disciplinary Disparities for Students with Disabilities
 ## A Case Study Using CRDC 2020-21 Data
 
 ## Executive Summary
