@@ -34,7 +34,7 @@ This project quantifies how students with disabilities experience exclusionary d
             |----------|-------------|-------|
             | Case Study (Google Doc) | Full narrative case study with methodology, findings, implications, and recommendations | [View Doc](https://docs.google.com/document/d/19QGJCl_cc4XCZDVbbVoY08IeCWtCItVAip_ebk7zC2o/edit) |
             | Data Workbook (Google Sheets) | Underlying data tables, calculations, and disparity ratios | [View Sheets](https://docs.google.com/spreadsheets/d/1kD_ilAgQm_DaHYtKmvuE3Aj4sXag40_N4z95Rj-3rJY/edit) |
-            | Interactive Dashboard (Tableau Public) | Visual exploration of discipline disparities by disability status, race, and geography | [View Dashboard](https://public.tableau.com/app/profile/yauncee.dorty/viz/CRDCDisciplineDisparities-StudentswithDisabilities/Sheet3) |
+            | Interactive Dashboard (Tableau Public) | Visual exploration of discipline disparities by disability status, race, and geography | [View Dashboard](https://public.tableau.com/app/profile/yauncee.dorty/viz/CRDCDisciplineDisparities-StudentswithDisabilities/DisciplineDisparitiesDashboard) |
             | CRDC Public Dashboard | Source data | [civilrightsdata.ed.gov](https://civilrightsdata.ed.gov) |
 
             ## Methodology
